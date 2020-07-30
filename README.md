@@ -1,3 +1,11 @@
+[1.1]: https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/twitter.svg (Twitter)
+[2.1]: https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/linkedin.svg (LinkedIn)
+[3.1]: https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/web.svg (Live Code Stream)
+
+[1]: http://www.twitter.com/bajcmartinez
+[2]: https://www.linkedin.com/in/bajcmartinez/
+[3]: https://livecodestream.dev
+
 !["Juan Cruz Martinez: Founder & Author of Live Code Stream"](https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/channel-art.jpg)
 
 
@@ -15,14 +23,6 @@ I want to help as many people as possible to get started into the world of progr
 
 Let's connect!
 
-[![Twitter][1.1]][1]
-[![LinkedIn][2.1]][2]
+[![Twitter][1.1]][1]&nbsp;&nbsp;
+[![LinkedIn][2.1]][2]&nbsp;&nbsp;
 [![Live Code Stream][3.1]][3]
-
-[1.1]: https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/twitter.svg (Twitter)
-[2.1]: https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/linkedin.svg (LinkedIn)
-[3.1]: https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/web.svg (Live Code Stream)
-
-[1]: http://www.twitter.com/bajcmartinez
-[2]: https://www.linkedin.com/in/bajcmartinez/
-[3]: https://livecodestream.dev
