@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [A quick and simple dive into Deep Learning with Keras](https://livecodestream.dev/post/a-quick-and-simple-dive-into-deep-learning-with-keras/)
 - [The Grandest Staircase Of Them All](https://livecodestream.dev/challenge/the-grandest-staircase-of-them-all/)
-- [How to Use Docker Compose to Handle Multi-Container NodeJS Applications](https://livecodestream.dev/post/how-to-use-docker-compose-to-handle-multi-container-nodejs-applications/)
 - [Learn web development with these fantastic courses and for only a few bucks (2021 edition)](https://livecodestream.dev/post/best-webdev-udemy-courses/)
 - [Don't Get Volunteered!](https://livecodestream.dev/challenge/dont-get-volunteered/)
+- [Search on Google like a PRO](https://livecodestream.dev/post/search-on-google-like-a-pro/)
+- [Ion Flux Relabeling](https://livecodestream.dev/challenge/ion-flux-relabeling/)
 <!-- BLOG-POST-LIST:END -->
