@@ -22,5 +22,5 @@ Let's connect!
 [![](https://img.shields.io/badge/newsletter-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://livecodestream.dev/subscribe/)
 
 ### Latest Posts
-<!-- START_SECTION:feed -->
-<!-- END_SECTION:feed -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
