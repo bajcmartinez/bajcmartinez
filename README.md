@@ -1,17 +1,9 @@
-[1.1]: https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/twitter.svg (Twitter)
-[2.1]: https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/linkedin.svg (LinkedIn)
-[3.1]: https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/web.svg (Live Code Stream)
+!["Juan Cruz Martinez: Founder & Author of Live Code Stream"](https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/banner.jpg)
 
-[1]: http://www.twitter.com/bajcmartinez
-[2]: https://www.linkedin.com/in/bajcmartinez/
-[3]: https://livecodestream.dev
+[![](https://komarev.com/ghpvc/?username=markoDenic&color=blue&label=Profile%20Views)](https://github.com/markoDenic/markoDenic)
+[![](https://img.shields.io/github/followers/markoDenic?label=GitHub%20Followers)](https://github.com/markoDenic)
 
-!["Juan Cruz Martinez: Founder & Author of Live Code Stream"](https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/channel-art.jpg)
-
-
-## Hi, I'm Juan
-
-<img align='right' src='https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/me-thumbnail.png' width='200"'>
+# Hi! 👋 I'm Juan 💻
 
 > I'm entrepreneur, developer, author, speaker, youtuber, and doer of things.
 
@@ -23,6 +15,12 @@ I want to help as many people as possible to get started into the world of progr
 
 Let's connect!
 
-[![Twitter][1.1]][1]&nbsp;&nbsp;
-[![LinkedIn][2.1]][2]&nbsp;&nbsp;
-[![Live Code Stream][3.1]][3]
+### Let's Connect 🔗
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/bajcmartinez/)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/bajcmartinez)
+[![](https://img.shields.io/badge/newsletter-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://livecodestream.dev/subscribe/)
+
+### Latest Posts
+<!-- START_SECTION:feed -->
+<!-- END_SECTION:feed -->
