@@ -1,7 +1,7 @@
 !["Juan Cruz Martinez: Founder & Author of Live Code Stream"](https://raw.githubusercontent.com/bajcmartinez/bajcmartinez/master/images/banner.jpg)
 
-[![](https://komarev.com/ghpvc/?username=markoDenic&color=blue&label=Profile%20Views)](https://github.com/markoDenic/markoDenic)
-[![](https://img.shields.io/github/followers/markoDenic?label=GitHub%20Followers)](https://github.com/markoDenic)
+[![](https://komarev.com/ghpvc/?username=bajcmartinez&color=blue&label=Profile%20Views)](https://github.com/bajcmartinez)
+[![](https://img.shields.io/github/followers/bajcmartinez?label=GitHub%20Followers)](https://github.com/bajcmartinez)
 
 # Hi! 👋 I'm Juan 💻
 
