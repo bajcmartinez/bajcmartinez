@@ -22,10 +22,5 @@ Let's connect!
 [![](https://img.shields.io/badge/newsletter-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://livecodestream.dev/subscribe/)
 
 ### Latest Posts
-<!-- BLOG-POST-LIST:START -->
-- [The Grandest Staircase Of Them All](https://livecodestream.dev/challenge/the-grandest-staircase-of-them-all/)
-- [Learn web development with these fantastic courses and for only a few bucks (2021 edition)](https://livecodestream.dev/post/best-webdev-udemy-courses/)
-- [Don't Get Volunteered!](https://livecodestream.dev/challenge/dont-get-volunteered/)
-- [Search on Google like a PRO](https://livecodestream.dev/post/search-on-google-like-a-pro/)
-- [Ion Flux Relabeling](https://livecodestream.dev/challenge/ion-flux-relabeling/)
-<!-- BLOG-POST-LIST:END -->
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
