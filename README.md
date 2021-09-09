@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [The ultimate guide to freelancing as a developer](https://livecodestream.dev/post/the-ultimate-guide-to-freelancing-as-a-developer/)
 - [Customize TailwindCSS to give your sites a unique look](https://livecodestream.dev/post/customize-tailwindcss-to-give-your-sites-a-unique-look/)
 - [Side Gigs to Make Money as a Developer](https://livecodestream.dev/post/side-gigs-to-make-money-as-a-developer/)
 - [8 cool CSS tips & tricks to impress](https://livecodestream.dev/post/8-cool-css-tips-tricks-to-impress/)
 - [The Grandest Staircase Of Them All](https://livecodestream.dev/challenge/the-grandest-staircase-of-them-all/)
-- [Learn web development with these fantastic courses and for only a few bucks (2021 edition)](https://livecodestream.dev/post/best-webdev-udemy-courses/)
 <!-- BLOG-POST-LIST:END -->
