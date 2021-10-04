@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [Generating images with Deep Learning](https://livecodestream.dev/post/generating-images-with-deep-learning/)
-- [The ultimate guide to freelancing as a developer](https://livecodestream.dev/post/the-ultimate-guide-to-freelancing-as-a-developer/)
-- [Customize TailwindCSS to give your sites a unique look](https://livecodestream.dev/post/customize-tailwindcss-to-give-your-sites-a-unique-look/)
-- [Side Gigs to Make Money as a Developer](https://livecodestream.dev/post/side-gigs-to-make-money-as-a-developer/)
-- [8 cool CSS tips & tricks to impress](https://livecodestream.dev/post/8-cool-css-tips-tricks-to-impress/)
+- [Remove the background from images using AI and Python](https://livecodestream.dev/post/remove-the-background-from-images-using-ai-and-python/)
+- [Artificial Intelligence vs Machine Learning vs Deep Learning](https://livecodestream.dev/post/artificial-intelligence-vs-machine-learning-vs-deep-learning/)
+- [15 signs you joined the wrong company as a developer](https://livecodestream.dev/post/15-signs-you-joined-the-wrong-company-as-a-developer/)
+- [The best noise-canceling headphones for developers in 2021](https://livecodestream.dev/post/best-programming-headphones/)
+- [Top deep learning algorithms you should know](https://livecodestream.dev/post/top-deep-learning-algorithms-you-should-know/)
 <!-- BLOG-POST-LIST:END -->
