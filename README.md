@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Object Tracking with OpenCV](https://livecodestream.dev/post/object-tracking-with-opencv/)
 - [The Future of the Internet: Web3 and Why Developers Should Learn It](https://livecodestream.dev/post/web3-intro-for-devs/)
 - [Remove the background from images using AI and Python](https://livecodestream.dev/post/remove-the-background-from-images-using-ai-and-python/)
 - [Artificial Intelligence vs Machine Learning vs Deep Learning](https://livecodestream.dev/post/artificial-intelligence-vs-machine-learning-vs-deep-learning/)
 - [15 signs you joined the wrong company as a developer](https://livecodestream.dev/post/15-signs-you-joined-the-wrong-company-as-a-developer/)
-- [The best noise-canceling headphones for developers in 2021](https://livecodestream.dev/post/best-programming-headphones/)
 <!-- BLOG-POST-LIST:END -->
