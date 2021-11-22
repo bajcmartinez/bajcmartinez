@@ -19,7 +19,7 @@ Let's connect!
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/bajcmartinez/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/bajcmartinez)
-[![](https://img.shields.io/badge/newsletter-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://livecodestream.dev/subscribe/)
+[![](https://img.shields.io/badge/linktree-%230077B5.svg?&style=for-the-badge&logo=newsletter&logoColor=white&color=8a3ab9)](https://linktr.ee/bajcmartinez)
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
