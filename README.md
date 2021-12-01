@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning to Code: Is Udacity Right for You?](https://livecodestream.dev/review/platform/udacity/)
 - [How to become a software engineer, even without a CS degree](https://livecodestream.dev/post/become-a-software-engineer/)
-- [Learning to Code: Is Udemy Right for You](https://livecodestream.dev/review/platform/udemy/)
+- [Learning to Code: Is Udemy Right for You?](https://livecodestream.dev/review/platform/udemy/)
 - [The best laptops for programming in 2021](https://livecodestream.dev/post/best-programming-laptops/)
 - [The best mice for developers in 2021](https://livecodestream.dev/post/best-programming-mice/)
-- [Powerful Python one-liners to look like a pro](https://livecodestream.dev/post/python-one-liners/)
 <!-- BLOG-POST-LIST:END -->
