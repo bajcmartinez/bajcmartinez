@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Sorting algorithms explained](https://livecodestream.dev/post/sorting-algorithms-explained/)
 - [Learning to Code: Is Udacity Right for You?](https://livecodestream.dev/review/platform/udacity/)
 - [How to become a software engineer, even without a CS degree](https://livecodestream.dev/post/become-a-software-engineer/)
 - [Learning to Code: Is Udemy Right for You?](https://livecodestream.dev/review/platform/udemy/)
 - [The best laptops for programming in 2021](https://livecodestream.dev/post/best-programming-laptops/)
-- [The best mice for developers in 2021](https://livecodestream.dev/post/best-programming-mice/)
 <!-- BLOG-POST-LIST:END -->
