@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fun machine learning projects for beginners](https://livecodestream.dev/post/fun-machine-learning-projects-for-beginners/)
 - [DataCamp Review: Start your data journey, right now!](https://livecodestream.dev/review/platform/data-camp/)
 - [Sorting algorithms explained](https://livecodestream.dev/post/sorting-algorithms-explained/)
 - [Learning to Code: Is Udacity Right for You?](https://livecodestream.dev/review/platform/udacity/)
 - [How to become a software engineer, even without a CS degree](https://livecodestream.dev/post/become-a-software-engineer/)
-- [Learning to Code: Is Udemy Right for You?](https://livecodestream.dev/review/platform/udemy/)
 <!-- BLOG-POST-LIST:END -->
