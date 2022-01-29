@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [2022 will be a big year for my team at livecodestream.dev](https://livecodestream.dev/post/become-a-software-engineer/)
+- [5 reasons to start your career as a web developer](https://livecodestream.dev/post/5-reasons-to-start-your-career-as-a-web-developer/)
+- [2022 will be a big year for my team at livecodestream.dev](https://livecodestream.dev/post/2022-goals/)
 - [Fun machine learning projects for beginners](https://livecodestream.dev/post/fun-machine-learning-projects-for-beginners/)
 - [DataCamp Review: Start your data journey, right now!](https://livecodestream.dev/review/platform/data-camp/)
 - [Sorting algorithms explained](https://livecodestream.dev/post/sorting-algorithms-explained/)
-- [Learning to Code: Is Udacity Right for You?](https://livecodestream.dev/review/platform/udacity/)
 <!-- BLOG-POST-LIST:END -->
