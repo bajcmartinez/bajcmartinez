@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding blockchain](https://livecodestream.dev/post/understanding-blockchain/)
 - [Learn these to become a web developer](https://livecodestream.dev/post/learn-these-to-become-a-web-developer/)
 - [5 reasons to start your career as a web developer](https://livecodestream.dev/post/5-reasons-to-start-your-career-as-a-web-developer/)
 - [2022 will be a big year for my team at livecodestream.dev](https://livecodestream.dev/post/2022-goals/)
 - [Fun machine learning projects for beginners](https://livecodestream.dev/post/fun-machine-learning-projects-for-beginners/)
-- [DataCamp Review: Start your data journey, right now!](https://livecodestream.dev/review/platform/data-camp/)
 <!-- BLOG-POST-LIST:END -->
