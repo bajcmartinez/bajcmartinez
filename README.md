@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Five reasons to become a freelance web developer](https://livecodestream.dev/post/why-freelancing/)
 - [Programming terms you need to know](https://livecodestream.dev/post/programming-terms/)
 - [Non-programming skills that will make you a better programmer](https://livecodestream.dev/post/non-programming-skills-that-will-make-you-a-better-programmer/)
 - [Specializations within web-development](https://livecodestream.dev/post/specializations-within-web-development/)
 - [How to chart your unique path as a programmer](https://livecodestream.dev/post/how-to-chart-your-unique-path-as-a-programmer/)
-- [Understanding blockchain](https://livecodestream.dev/post/understanding-blockchain/)
 <!-- BLOG-POST-LIST:END -->
