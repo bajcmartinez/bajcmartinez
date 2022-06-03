@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [5 great ideas to take your websites to the next level](https://livecodestream.dev/post/5-great-ideas-to-take-your-websites-to-the-next-level/)
 - [7 essential elements of a web developer portfolio](https://livecodestream.dev/post/7-essential-elements-of-a-web-developer-portfolio/)
 - [Where to find your first customer](https://livecodestream.dev/post/where-to-find-your-first-customer/)
 - [Five reasons to become a freelance web developer](https://livecodestream.dev/post/why-freelancing/)
 - [Programming terms you need to know](https://livecodestream.dev/post/programming-terms/)
-- [Non-programming skills that will make you a better programmer](https://livecodestream.dev/post/non-programming-skills-that-will-make-you-a-better-programmer/)
 <!-- BLOG-POST-LIST:END -->
