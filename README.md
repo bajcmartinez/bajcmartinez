@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to prepare for a technical interview](https://livecodestream.dev/post/how-to-prepare-for-a-technical-interview/)
 - [5 great ideas to take your websites to the next level](https://livecodestream.dev/post/5-great-ideas-to-take-your-websites-to-the-next-level/)
 - [7 essential elements of a web developer portfolio](https://livecodestream.dev/post/7-essential-elements-of-a-web-developer-portfolio/)
 - [Where to find your first customer](https://livecodestream.dev/post/where-to-find-your-first-customer/)
 - [Five reasons to become a freelance web developer](https://livecodestream.dev/post/why-freelancing/)
-- [Programming terms you need to know](https://livecodestream.dev/post/programming-terms/)
 <!-- BLOG-POST-LIST:END -->
