@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [9 popular myths about software developers](https://livecodestream.dev/post/9-popular-myths-about-software-developers/)
 - [14 ways to maintain your well-being as a software engineer](https://livecodestream.dev/post/well-being-as-a-software-engineer/)
 - [How to crush your technical interview](https://livecodestream.dev/post/how-to-crush-your-technical-interview/)
 - [How to prepare for a technical interview](https://livecodestream.dev/post/how-to-prepare-for-a-technical-interview/)
 - [5 great ideas to take your websites to the next level](https://livecodestream.dev/post/5-great-ideas-to-take-your-websites-to-the-next-level/)
-- [7 essential elements of a web developer portfolio](https://livecodestream.dev/post/7-essential-elements-of-a-web-developer-portfolio/)
 <!-- BLOG-POST-LIST:END -->
