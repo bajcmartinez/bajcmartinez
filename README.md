@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Should you become a full-stack developer?](https://livecodestream.dev/post/why-to-be-full-stack/)
 - [How to stand out from the crowd as a developer](https://livecodestream.dev/post/stand-out-as-a-developer/)
 - [Crypto crash and future of web3](https://livecodestream.dev/post/crypto-crash-and-future-of-web3/)
 - [9 popular myths about software developers](https://livecodestream.dev/post/9-popular-myths-about-software-developers/)
 - [14 ways to maintain your well-being as a software engineer](https://livecodestream.dev/post/well-being-as-a-software-engineer/)
-- [How to crush your technical interview](https://livecodestream.dev/post/how-to-crush-your-technical-interview/)
 <!-- BLOG-POST-LIST:END -->
