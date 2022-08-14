@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to avoid landing impossible clients](https://livecodestream.dev/post/how-to-avoid-landing-impossible-clients/)
 - [How to promote your services as a freelancer](https://livecodestream.dev/post/how-to-promote-your-services-as-a-freelancer/)
 - [Should you become a full-stack developer?](https://livecodestream.dev/post/why-to-be-full-stack/)
 - [How to stand out from the crowd as a developer](https://livecodestream.dev/post/stand-out-as-a-developer/)
 - [Crypto crash and future of web3](https://livecodestream.dev/post/crypto-crash-and-future-of-web3/)
-- [9 popular myths about software developers](https://livecodestream.dev/post/9-popular-myths-about-software-developers/)
 <!-- BLOG-POST-LIST:END -->
