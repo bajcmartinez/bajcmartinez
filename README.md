@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Managing your work and project flow as a freelancer](https://livecodestream.dev/post/managing-your-work-and-project-flow-as-a-freelancer/)
 - [How to price your services as a freelancer](https://livecodestream.dev/post/how-to-price-your-services-as-a-freelancer/)
 - [Handling impossible clients](https://livecodestream.dev/post/handling-impossible-clients/)
 - [How to avoid landing impossible clients](https://livecodestream.dev/post/how-to-avoid-landing-impossible-clients/)
 - [How to promote your services as a freelancer](https://livecodestream.dev/post/how-to-promote-your-services-as-a-freelancer/)
-- [Should you become a full-stack developer?](https://livecodestream.dev/post/why-to-be-full-stack/)
 <!-- BLOG-POST-LIST:END -->
