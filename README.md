@@ -24,8 +24,8 @@ Let's connect!
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
 - [Managing your work and project flow as a freelancer](https://livecodestream.dev/post/managing-your-work-and-project-flow-as-a-freelancer/)
+- [The best mice for developers in 2021](https://livecodestream.dev/post/best-programming-mice/)
 - [How to price your services as a freelancer](https://livecodestream.dev/post/how-to-price-your-services-as-a-freelancer/)
 - [Handling impossible clients](https://livecodestream.dev/post/handling-impossible-clients/)
-- [How to avoid landing impossible clients](https://livecodestream.dev/post/how-to-avoid-landing-impossible-clients/)
-- [How to promote your services as a freelancer](https://livecodestream.dev/post/how-to-promote-your-services-as-a-freelancer/)
+- [The best noise-canceling headphones for developers in 2022](https://livecodestream.dev/post/best-programming-headphones/)
 <!-- BLOG-POST-LIST:END -->
