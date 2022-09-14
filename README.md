@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [15 Must-Know JavaScript Array Methods](https://livecodestream.dev/post/15-must-know-javascript-array-methods/)
 - [How to get better at sales](https://livecodestream.dev/post/how-to-get-better-at-sales/)
 - [Managing your work and project flow as a freelancer](https://livecodestream.dev/post/managing-your-work-and-project-flow-as-a-freelancer/)
 - [The best mice for developers in 2021](https://livecodestream.dev/post/best-programming-mice/)
 - [How to price your services as a freelancer](https://livecodestream.dev/post/how-to-price-your-services-as-a-freelancer/)
-- [Handling impossible clients](https://livecodestream.dev/post/handling-impossible-clients/)
 <!-- BLOG-POST-LIST:END -->
