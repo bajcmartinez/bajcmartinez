@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Image processing with Python and Pillow](https://livecodestream.dev/post/image-processing-with-python-and-pillow/)
 - [How to generate leads as a freelancer](https://livecodestream.dev/post/how-to-generate-leads-as-a-freelancer/)
 - [15 Must-Know JavaScript Array Methods](https://livecodestream.dev/post/15-must-know-javascript-array-methods/)
 - [How to get better at sales](https://livecodestream.dev/post/how-to-get-better-at-sales/)
 - [Managing your work and project flow as a freelancer](https://livecodestream.dev/post/managing-your-work-and-project-flow-as-a-freelancer/)
-- [The best mice for developers in 2021](https://livecodestream.dev/post/best-programming-mice/)
 <!-- BLOG-POST-LIST:END -->
