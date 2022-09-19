@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Hour of Code and why does it matter?](https://livecodestream.dev/post/what-is-hour-of-code/)
 - [Image processing with Python and Pillow](https://livecodestream.dev/post/image-processing-with-python-and-pillow/)
 - [How to generate leads as a freelancer](https://livecodestream.dev/post/how-to-generate-leads-as-a-freelancer/)
 - [15 Must-Know JavaScript Array Methods](https://livecodestream.dev/post/15-must-know-javascript-array-methods/)
 - [How to get better at sales](https://livecodestream.dev/post/how-to-get-better-at-sales/)
-- [Managing your work and project flow as a freelancer](https://livecodestream.dev/post/managing-your-work-and-project-flow-as-a-freelancer/)
 <!-- BLOG-POST-LIST:END -->
