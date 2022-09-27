@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Coursera review, is it worth it in 2022?](https://livecodestream.dev/review/platform/coursera/)
 - [A Beginner&#39;s Guide to SQL: Everything You Need to Know](https://livecodestream.dev/post/sql-guide/)
 - [How to talk to your clients about money](https://livecodestream.dev/post/how-to-talk-to-your-clients-about-money/)
 - [What is Hour of Code and why does it matter?](https://livecodestream.dev/post/what-is-hour-of-code/)
 - [Image processing with Python and Pillow](https://livecodestream.dev/post/image-processing-with-python-and-pillow/)
-- [How to generate leads as a freelancer](https://livecodestream.dev/post/how-to-generate-leads-as-a-freelancer/)
 <!-- BLOG-POST-LIST:END -->
