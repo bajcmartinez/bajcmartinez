@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to manage projects as a freelancer](https://livecodestream.dev/post/how-to-manage-projects-as-a-freelancer/)
 - [Tools to use to manage your freelance business](https://livecodestream.dev/post/freelancer-tools/)
 - [Coursera review, is it worth it in 2022?](https://livecodestream.dev/review/platform/coursera/)
 - [A Beginner&#39;s Guide to SQL: Everything You Need to Know](https://livecodestream.dev/post/sql-guide/)
 - [How to talk to your clients about money](https://livecodestream.dev/post/how-to-talk-to-your-clients-about-money/)
-- [What is Hour of Code and why does it matter?](https://livecodestream.dev/post/what-is-hour-of-code/)
 <!-- BLOG-POST-LIST:END -->
