@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Encryption](https://livecodestream.dev/challenge/encryption/)
 - [Ten crazy cool python project ideas for 2022](https://livecodestream.dev/post/10-crazy-cool-project-ideas-for-python-developers/)
 - [Learn web development: from zero to web developer](https://livecodestream.dev/post/learn-web-development/)
 - [How to manage projects as a freelancer](https://livecodestream.dev/post/how-to-manage-projects-as-a-freelancer/)
 - [Tools to use to manage your freelance business](https://livecodestream.dev/post/freelancer-tools/)
-- [Coursera review, is it worth it in 2022?](https://livecodestream.dev/review/platform/coursera/)
 <!-- BLOG-POST-LIST:END -->
