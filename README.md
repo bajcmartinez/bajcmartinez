@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Freelancer or business owner?](https://livecodestream.dev/post/freelancer-or-business-owner/)
 - [Is Interview Kickstart Worth Your Money?](https://livecodestream.dev/review/platform/interview-kickstart/)
 - [Development, Testing, Staging, Production: What&#39;s the difference?](https://livecodestream.dev/post/development-testing-staging-production-whats-the-difference/)
 - [Encryption](https://livecodestream.dev/challenge/encryption/)
 - [Ten crazy cool python project ideas for 2022](https://livecodestream.dev/post/10-crazy-cool-project-ideas-for-python-developers/)
-- [Learn web development: from zero to web developer](https://livecodestream.dev/post/learn-web-development/)
 <!-- BLOG-POST-LIST:END -->
