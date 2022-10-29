@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to ace the coding interview and land your dream job](https://livecodestream.dev/post/technical-interview/)
 - [What can you build with Python?](https://livecodestream.dev/post/what-is-python-best-for/)
 - [Freelancer or business owner?](https://livecodestream.dev/post/freelancer-or-business-owner/)
 - [Is Interview Kickstart Worth Your Money?](https://livecodestream.dev/review/platform/interview-kickstart/)
 - [Development, Testing, Staging, Production: What&#39;s the difference?](https://livecodestream.dev/post/development-testing-staging-production-whats-the-difference/)
-- [Encryption](https://livecodestream.dev/challenge/encryption/)
 <!-- BLOG-POST-LIST:END -->
