@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Questions to ask yourself before you start any freelance project](https://livecodestream.dev/post/questions-to-ask-yourself-before-you-start-any-freelance-project/)
 - [Planning for success, 7 things to consider before launching your freelance career](https://livecodestream.dev/post/planning-successful-freelance-career/)
 - [How to launch and grow a freelancer career while working full time](https://livecodestream.dev/post/how-to-launch-and-grow-a-freelancer-career-while-working-full-time/)
 - [The Tale of Rick Van Winter](https://livecodestream.dev/post/the-tale-of-rick-van-winter/)
 - [How to ace the coding interview and land your dream job](https://livecodestream.dev/post/technical-interview/)
-- [What can you build with Python?](https://livecodestream.dev/post/what-is-python-best-for/)
 <!-- BLOG-POST-LIST:END -->
