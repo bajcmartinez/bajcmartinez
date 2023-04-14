@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to plan your day effectively as a freelancer](https://livecodestream.dev/post/freelancer-daily-plan/)
-- [Questions to ask yourself before you start any freelance project](https://livecodestream.dev/post/questions-to-ask-yourself-before-you-start-any-freelance-project/)
-- [Planning for success, 7 things to consider before launching your freelance career](https://livecodestream.dev/post/planning-successful-freelance-career/)
-- [How to launch and grow a freelancer career while working full time](https://livecodestream.dev/post/how-to-launch-and-grow-a-freelancer-career-while-working-full-time/)
-- [The Tale of Rick Van Winter](https://livecodestream.dev/post/the-tale-of-rick-van-winter/)
+- [What to Do When a Client Ends a Freelancing Relationship](https://livecodestream.dev/post/what-to-do-when-a-client-ends-a-freelancing-relationship/)
+- [Most Common Ways to Make HTTP Requests in JavaScript](https://livecodestream.dev/post/http-requests-in-javascript/)
+- [Turning a Freelance Gig into a Long-Term Partnership](https://livecodestream.dev/post/turning-a-freelance-gig-into-a-long-term-partnership/)
+- [Best AI Tools for Productivity in 2023](https://livecodestream.dev/post/best-ai-tools/)
+- [The Best Noise-Canceling Headphones for Developers in 2023](https://livecodestream.dev/post/best-programming-headphones/)
 <!-- BLOG-POST-LIST:END -->
