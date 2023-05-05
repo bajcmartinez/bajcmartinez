@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tips for Setting Up Your LinkedIn Profile](https://livecodestream.dev/post/tips-for-setting-up-your-linkedin-profile/)
+- [Top 5 Tips for Success as a Freelancer](https://livecodestream.dev/post/top-5-tips-for-success-as-a-freelancer/)
 - [Get a Random Boolean in Python](https://livecodestream.dev/post/get-a-random-boolean-in-python/)
 - [Learn Web Development: From Zero to Web Developer](https://livecodestream.dev/post/learn-web-development/)
 - [Top 10 Pros and Cons of Freelancing](https://livecodestream.dev/post/top-10-pros-and-cons-of-freelancing/)
-- [What to Do When a Client Ends a Freelancing Relationship](https://livecodestream.dev/post/what-to-do-when-a-client-ends-a-freelancing-relationship/)
-- [Most Common Ways to Make HTTP Requests in JavaScript](https://livecodestream.dev/post/http-requests-in-javascript/)
 <!-- BLOG-POST-LIST:END -->
