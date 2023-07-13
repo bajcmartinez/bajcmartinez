@@ -23,9 +23,9 @@ Let's connect!
 
 ### Latest Posts
 <!-- BLOG-POST-LIST:START -->
+- [Converting Strings into Arrays with JavaScript](https://livecodestream.dev/post/converting-strings-into-arrays-with-javascript/)
 - [Setting Client Boundaries as a Freelancer](https://livecodestream.dev/post/setting-client-boundaries-as-a-freelancer/)
 - [How to Make Your First $1,000 Freelancing](https://livecodestream.dev/post/how-to-make-your-first-1000-freelancing/)
 - [AI Code Mentor - Coming Soon!](https://livecodestream.dev/post/ai-code-mentor-coming-soon/)
 - [How Will AI Impact Freelancers?](https://livecodestream.dev/post/how-will-ai-impact-freelancers/)
-- [9 Tips for Outsourcing Freelance Work](https://livecodestream.dev/post/9-tips-for-outsourcing-freelance-work/)
 <!-- BLOG-POST-LIST:END -->
